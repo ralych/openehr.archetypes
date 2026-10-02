@@ -76,8 +76,8 @@ dependencies:
 parameters:
   excludettl: true
   openehr: true
-#  path-resource:
-#    - '/input/archetypes'
+  path-resource:
+    - '/input/archetypes'
       
 # ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
 # │ The menu property will be used to generate the input/menu.xml file. The menu is represented    │
